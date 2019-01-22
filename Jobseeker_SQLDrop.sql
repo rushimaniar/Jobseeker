@@ -1,0 +1,10 @@
+DROP TABLE [Jobseeker.Available_at];
+DROP TABLE [Jobseeker.Applies];
+DROP TABLE [Jobseeker.Hires_From];
+DROP TABLE [Jobseeker.Candidate_Skills];
+DROP TABLE [Jobseeker.Candidate];
+DROP TABLE [Jobseeker.University];
+DROP TABLE [Jobseeker.Location];
+DROP TABLE [Jobseeker.Required_Skills];
+DROP TABLE [Jobseeker.Job];
+DROP TABLE [Jobseeker.Company];
